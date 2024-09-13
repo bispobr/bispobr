@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bispobr&rank_icon=github&count_private=false&theme=vue-dark&locale=pt-br&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&locale=pt-br&hide_title=false&theme=vue-dark&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bispobr&locale=pt-br&hide_title=false&theme=vue-dark&layout=compact"/>
   </a>
  </div>
 
@@ -39,3 +39,6 @@
   <a href="mailto:mail.google.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
